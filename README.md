@@ -1,6 +1,6 @@
 # RAG_contextual_retrieval
 
-![image](https://github.com/user-attachments/assets/5e06fd90-7e8c-45e4-a80a-3ce81e9afd12)
+![image](https://github.com/OmVT/AI_RAG/blob/fbdbc6c0e19bea1b0b0e48fccf0dcbd088450558/screenshots/upload.png)
 
 <ul>
   <li>Used SentenceTransformers to generate document embeddings and ChromaDB for
